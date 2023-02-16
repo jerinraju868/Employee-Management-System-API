@@ -1,0 +1,26 @@
+Employee Page:
+	
+    - Create API
+		- Fields: Employee Name, Email, Contact Number, Emergency Contact Number, Address, Postion, DOB, Martial status, Blood Group,
+		  	Job Title, work Location, Date of Joining(use pipe for a particular format), Reporting to, Linked In link, Profile pic.
+	
+	- List API
+		- Functionalities: search, sort
+		- Show: Employee id, Employee Name, contact, Email, Designation, Reporting to, Work location.
+	
+    - Detail API
+    
+    - Edit API
+		- Fields: Employee Name, Email, Contact Number, Emergency Contact Number, Address, Postion, DOB, Martial status, Blood Group,
+			Job Title, work Location, Date of Joining, Reporting to, Linked In link, Profile pic.
+	
+    - Delete API
+
+	
+Leave Page:
+
+	- List API to list all employees leave request.
+		- Fiters: to list all approved leaves, to list pending approval leaves.
+		- Fields: Employee Name, Apply date, Nature of leave, first day, last day, number of days.
+
+	- API to approve and reject leave request from employees.

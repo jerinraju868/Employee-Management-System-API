@@ -1,0 +1,8 @@
+Leave Application Page:
+
+	- API to list leaves of current employee
+		- Show: Apply date, Nature of leave, first day, last day, number of days.
+		- Functionalities: search, sort.
+
+	- Leave application request API:
+		- Fields: Apply date(auto populate), Nature of leave, first day, last day, number of days.
